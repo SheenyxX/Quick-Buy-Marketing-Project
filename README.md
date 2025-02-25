@@ -1,98 +1,110 @@
 # Marketing Analytics Project
 
-## Project Overview
-This project analyzes marketing data to uncover trends in customer engagement, conversion rates, and product ratings. Using **SQL** for data cleaning, **Python** for sentiment analysis, and **Power BI** for visualization, I built interactive dashboards to provide actionable insights and recommendations for improving marketing strategies.
+## **Project Overview**
+### **Goal**
+The goal of this project was to analyze marketing data to uncover trends in customer engagement, conversion rates, and product performance. By identifying key challenges and opportunities, the aim was to provide actionable recommendations to improve marketing strategies and boost overall performance.
+
+### **Tools Used**
+- **SQL**: For data cleaning and transformation.
+- **Python**: For sentiment analysis on customer reviews.
+- **Power BI**: For building interactive dashboards and visualizing insights.
+
+### **Key Outcomes**
+- Identified declining views but consistent likes and clicks.
+- Discovered products with the highest and lowest conversion rates.
+- Analyzed customer reviews to uncover root causes of low ratings.
+- Provided actionable recommendations to improve engagement and conversions.
 
 ---
 
-## Key Findings
+## **Dashboards and Insights**
 
-### 1. **Engagement Trends**
-- **Views**: The number of views has been decreasing over time.
-- **Likes and Clicks**: Likes and clicks have remained consistent overall.
-- **Content Performance**:
-  - **Blogs**: Predominate in engagement compared to other content types.
-  - **Videos**: Have the least views.
+### **1. Overview Dashboard**
+![Overview Dashboard](https://github.com/SheenyxX/Marketing-Project/blob/main/Overview1.png)  
+**Purpose**: Track overall performance metrics over time, including views, clicks, likes, and conversion rates.
 
-### 2. **Product Performance**
-- **Most Viewed Product**: Basketball.
-- **Least Viewed Product**: Dumbbells.
-- **Best Conversion Rates**:
-  - Hockey Stick: **15.46%**
-  - Ski Boots: **14.61%** (last year).
-- **Worst Conversion Rates**:
-  - Swim Goggles: **5.62%**
-  - Running Shoes: **6.25%**
-
-### 3. **Conversion Rate Trends**
-- A rebound in conversion rates was observed in recent months:
+#### **Insights**:
+- **Views**: The number of views has been decreasing over time, indicating a potential issue with content reach or audience engagement.
+- **Likes and Clicks**: These metrics have remained consistent, suggesting that the content itself is engaging but may not be reaching a wider audience.
+- **Conversion Rates**: A rebound was observed in recent months:
   - October: **6.15%**
   - November: **7.88%**
   - December: **11.41%**
 
-### 4. **Customer Reviews**
-- Products with the most critical reviews:
-  - Surfboard
-  - Dumbbells
-  - Golf Clubs
-  - Hockey Stick
-  - Tennis Racket
-- Common issues mentioned in low-scoring reviews:
-  - Bad experiences
-  - Not worth the money
-  - Disappointed with product performance
+#### **Critical Points**:
+- Investigate why views are declining despite consistent likes and clicks.
+- Focus on strategies to increase content reach and visibility.
 
 ---
 
-## Recommendations
-1. **Focus on High-Performing Products**:
-   - Allocate more marketing resources to products with high conversion rates (e.g., Hockey Stick, Ski Boots).
-   - Investigate why Basketball has high views but lower conversion rates.
+### **2. Social Media Dashboard**
+![Social Media Dashboard](https://github.com/SheenyxX/Marketing-Project/blob/main/Socialmedia.png)  
+**Purpose**: Analyze engagement metrics across different content types (blogs, social media, videos).
 
-2. **Improve Low-Performing Products**:
-   - Address issues with Swim Goggles and Running Shoes to improve conversion rates.
-   - Use customer feedback to enhance product quality and customer satisfaction.
+#### **Insights**:
+- **Blogs**: Predominate in engagement, suggesting that written content resonates well with the audience.
+- **Videos**: Have the least views, indicating a need to reevaluate video content strategy.
+- **Social Media**: Performs moderately but has room for improvement.
 
-3. **Optimize Content Strategy**:
-   - Invest more in blog content, as it dominates engagement.
-   - Re-evaluate video content strategy to increase views.
-
-4. **Address Negative Reviews**:
-   - Investigate root causes of negative reviews for Surfboard, Dumbbells, Golf Clubs, Hockey Stick, and Tennis Racket.
-   - Implement changes to improve customer experience and product quality.
+#### **Critical Points**:
+- Invest more in blog content, as it drives the most engagement.
+- Reassess video content strategy to improve views and engagement.
 
 ---
 
-## Dashboards
-Below are screenshots of the Power BI dashboards created for this analysis:
+### **3. Ratings Dashboard**
+![Ratings Dashboard](https://github.com/SheenyxX/Marketing-Project/blob/main/rating.png)  
+**Purpose**: Track product ratings and identify trends over time.
 
-### 1. **Overview Dashboard**
-![Social Media Dashboard](https://github.com/SheenyxX/Marketing-Project/blob/main/Overview.png)
-*Analyzes engagement metrics across platforms.*
- 
-*Tracks views, clicks, likes, and conversion rates over time.*
+#### **Insights**:
+- **Best-Rated Products**: Basketball and Hockey Stick have consistently high ratings.
+- **Worst-Rated Products**: Surfboard, Dumbbells, Golf Clubs, and Tennis Racket have the most critical reviews.
+- **Common Issues in Reviews**:
+  - Bad experiences.
+  - Not worth the money.
+  - Disappointed with product performance.
 
-
-
----
-
-## Tools Used
-- **SQL**: For data cleaning and transformation.
-- **Python**: For sentiment analysis on customer reviews.
-- **Power BI**: For data visualization and interactive dashboards.
+#### **Critical Points**:
+- Address quality and performance issues for low-rated products.
+- Use customer feedback to improve product design and customer satisfaction.
 
 ---
 
-## Repository Structure
-Marketing_Analysis_Project/
-├── Data/
-│   ├── raw_data/          # Original datasets
-│   ├── cleaned_data/      # Cleaned datasets
-├── Scripts/
-│   ├── sql_queries.sql    # SQL scripts for cleaning and analysis
-│   ├── sentiment_analysis.py  # Python script for sentiment analysis
-├── Power_BI/
-│   ├── dashboards/        # Power BI files (.pbix)
-├── Images/
-│   ├── dashboard_screenshots/  # Screenshots of Power BI dashboards
-├── README.md              # Project overview and documentation
+### **4. Conversion Rate Dashboard**
+![Conversion Rate Dashboard](https://github.com/SheenyxX/Marketing-Project/blob/main/Conversion.png)  
+**Purpose**: Highlight conversion rates by product and campaign.
+
+#### **Insights**:
+- **Best-Performing Products**:
+  - Hockey Stick: **15.46%** conversion rate.
+  - Ski Boots: **14.61%** conversion rate (last year).
+- **Worst-Performing Products**:
+  - Swim Goggles: **5.62%** conversion rate.
+  - Running Shoes: **6.25%** conversion rate.
+
+#### **Critical Points**:
+- Allocate more marketing resources to high-conversion products (e.g., Hockey Stick, Ski Boots).
+- Investigate and improve low-conversion products (e.g., Swim Goggles, Running Shoes).
+
+---
+
+## **Recommendations**
+1. **Improve Content Reach**:
+   - Focus on increasing views by optimizing content distribution channels.
+   - Experiment with new formats or platforms to attract a wider audience.
+
+2. **Enhance Product Quality**:
+   - Address issues with low-rated products (e.g., Surfboard, Dumbbells) to improve customer satisfaction.
+   - Use customer feedback to guide product improvements.
+
+3. **Optimize Marketing Spend**:
+   - Allocate more resources to high-performing products (e.g., Hockey Stick, Ski Boots).
+   - Reassess marketing strategies for low-performing products (e.g., Swim Goggles, Running Shoes).
+
+4. **Leverage Blog Content**:
+   - Invest more in blog content, as it drives the most engagement.
+   - Explore ways to repurpose blog content into other formats (e.g., videos, infographics).
+
+---
+
+
