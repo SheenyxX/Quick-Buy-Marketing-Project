@@ -94,6 +94,7 @@ def hybrid_sentiment_category(row):
 
 df['HybridSentiment'] = df.apply(hybrid_sentiment_category, axis=1)
 ```
+Key Insight: This method flagged conflicts (e.g., high ratings with negative reviews) for deeper review.
 
 ## **Dashboards and Insights**
 
