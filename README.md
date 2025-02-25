@@ -72,17 +72,7 @@ Below are screenshots of the Power BI dashboards created for this analysis:
  
 *Tracks views, clicks, likes, and conversion rates over time.*
 
-### 2. **Social Media Dashboard**
-![Social Media Dashboard](Images/dashboard_screenshots/social_media.png)  
-*Analyzes engagement metrics across platforms.*
 
-### 3. **Ratings Dashboard**
-![Ratings Dashboard](Images/dashboard_screenshots/ratings.png)  
-*Shows product ratings and trends over time.*
-
-### 4. **Conversion Rate Dashboard**
-![Conversion Rate Dashboard](Images/dashboard_screenshots/conversion_rate.png)  
-*Highlights conversion rates by product and campaign.*
 
 ---
 
