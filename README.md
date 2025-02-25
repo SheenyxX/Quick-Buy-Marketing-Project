@@ -67,7 +67,7 @@ This project analyzes marketing data to uncover trends in customer engagement, c
 Below are screenshots of the Power BI dashboards created for this analysis:
 
 ### 1. **Overview Dashboard**
-![Social Media Dashboard](https://github.com/SheenyxX/Marketing-Project/raw/main/path/to/image/Overview.png)
+![Social Media Dashboard](https://github.com/SheenyxX/Marketing-Project/blob/main/Overview.png)
 *Analyzes engagement metrics across platforms.*
  
 *Tracks views, clicks, likes, and conversion rates over time.*
