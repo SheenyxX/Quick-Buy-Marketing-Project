@@ -112,7 +112,7 @@ Key Insight: This method flagged conflicts (e.g., high ratings with negative rev
 
 #### **Critical Points**:
 - Investigate why views are declining despite consistent likes and clicks.
-- Focus on strategies to increase content reach and visibility.
+- Focus on strategies to increase content reach and visibility..
 
 ---
 
