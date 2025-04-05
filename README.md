@@ -1,4 +1,4 @@
-# KPI-Driven Marketing Analytics: Boosting Engagement and Conversion Rates
+# Marketing Analytics: Boosting Engagement and Conversion Rates
 
 ## **Project Overview**
 
