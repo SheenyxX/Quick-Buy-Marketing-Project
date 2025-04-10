@@ -1,0 +1,6 @@
+﻿CustomerID;CustomerName;Email;Gender;Age;GeographyID
+1;Emma Anderson;emma.anderson@example.com;Male;50;2
+2;Sarah Brown;sarah.brown@example.com;Female;37;4
+3;Robert Hernandez;robert.hernandez@example.com;Female;26;6
+4;David Garcia;david.garcia@example.com;Male;25;8
+5;Emma Miller;emma.miller@example.com;Female;41;4

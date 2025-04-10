@@ -1,0 +1,6 @@
+﻿JourneyID;CustomerID;ProductID;VisitDate;Stage;Action;Duration
+1;64;18;2024-06-10;Checkout;Drop-off;132,333333333333
+2;94;11;2025-07-09;Checkout;Drop-off;169,25
+3;34;8;2024-06-14;ProductPage;View;235
+4;33;18;2025-05-28;Checkout;Drop-off;12
+5;91;10;2023-02-11;Homepage;Click;156
