@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-Microsoft-blue.svg)](https://powerbi.microsoft.com/)
+
 # Marketing Analytics: Boosting Engagement and Conversion Rates
 
 ## **Project Overview**
